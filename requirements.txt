@@ -6,3 +6,5 @@ flask
 pypdf
 ipykernel
 python-dotenv
+sentence_transformers
+pinecone-client
