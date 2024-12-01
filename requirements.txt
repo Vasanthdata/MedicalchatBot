@@ -8,3 +8,4 @@ ipykernel
 python-dotenv
 sentence_transformers
 pinecone-client
+-e .
