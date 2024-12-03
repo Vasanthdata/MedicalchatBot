@@ -1,0 +1,16 @@
+"""
+1. Helper file : it would be able to import the particular every function:
+    def load_pdf(data)
+    def text_split(extracted_data)
+    def download_hugging_face_embeddings()
+
+2. Helper file:
+    Data push
+        1. Vector Pusher code : text to vectors and push them to the vector DB.
+        2. Use the store_index file push the vector to the vector DB.
+            1. push the PDF file from the folder itself.
+    
+
+3. store_index file:
+    
+"""
