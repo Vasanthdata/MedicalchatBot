@@ -13,4 +13,13 @@
 
 3. store_index file:
     
+
+
+
+
+4. Chatbot html:
+    check for this website:
+        1. https://codesandbox.io/p/sandbox/bravecoderyt-chatbot-design-using-html-css-he2jdz
+        2. chatbot html css template free
+        3. https://csshint.com
 """
